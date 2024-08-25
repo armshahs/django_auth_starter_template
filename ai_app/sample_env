@@ -1,0 +1,14 @@
+SECRET_KEY= #example: e34jdksjf-s4332432dw--fewewrwrewrewrwr
+
+# DB details ------------------
+
+DB_NAME= # example: defaultdb
+DB_USER= # example: avnadmin1234
+DB_PASSWORD= # example: Adsadsdadadsad
+DB_HOST= # example: project3-ai-testdb-ai-sentiment-tracker-testdb.bdsads.aivencloud.com
+DB_PORT= # example: 20477
+
+# Email details ----------------
+
+EMAIL_HOST_USER= # example: ar.mshahs12@gmail.com
+EMAIL_HOST_PASSWORD= # example: dsadsdadd
